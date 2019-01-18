@@ -60,6 +60,7 @@ header{
     font-size: 22px;
     font-weight: 700;
     margin: 0px 30px;
+    transition: .5s;
 }
 .menu ul li:last-child a{
 	margin-right: 0px;
@@ -110,6 +111,7 @@ header{
 	font-size: 42px;
     color: #010101;
     margin: 0px 20px;
+    transition: .5s;
 }
 .content ul li:first-child a{
 	margin-left: 0px;
@@ -273,6 +275,7 @@ footer{
     font-weight: 400;
     color: #ffffff;
     text-decoration: none;
+    transition: .5s;
 }
 .footer p a:hover{
     text-decoration: underline;
